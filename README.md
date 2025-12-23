@@ -1,7 +1,7 @@
-# Reduzindo-custos-com-AWS
+# REDUZINDO CUSTOS com AWS
 Redução de custos utilizando os serviços AWS. Testando alguns conhecimentos da plataforma com um exemplo em estudos de caso
 
-#  RELATóRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+## RELATóRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 20/12/2025
 Empresa: Abstergo Industries 
